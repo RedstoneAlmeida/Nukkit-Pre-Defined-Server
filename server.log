@@ -1,0 +1,118 @@
+2016-2-17 15:18:59 [INFO] Loading nukkit.yml...
+2016-2-17 15:18:59 [INFO] Loading server properties...
+2016-2-17 15:18:59 [INFO] Selecionado PortuguÍs (bra) como a linguagem base
+2016-2-17 15:18:59 [INFO] Iniciando Servidor de Minecraft: PE, vers„o v0.13.2 alpha
+2016-2-17 15:18:59 [INFO] Abrindo servidor em 0.0.0.0:19132
+2016-2-17 15:18:59 [INFO] Este servidor est· rodando Nukkit vers„o 1.0dev "??(Apple)?(Pie)" (API 1.0.0)
+2016-2-17 15:18:59 [INFO] Nukkit È distribuido com a licenÁa LGPL
+2016-2-17 15:18:59 [INFO] Preparando mundo "world"
+2016-2-17 15:18:59 [INFO] Iniciando listener de status GS4
+2016-2-17 15:18:59 [INFO] Porta de query est· ativada em 19132
+2016-2-17 15:18:59 [INFO] Query rodando em 0.0.0.0:19132
+2016-2-17 15:18:59 [INFO] Modo de jogo padr„o: Modo SobrevivÍncia
+2016-2-17 15:18:59 [INFO] Finalizado (1.066s)! Para ver a ajuda, escreva "help" ou "?"
+2016-2-17 15:19:02 [INFO] --- Mostrando p·gina 1 de 1 (/help <p·gina>) ---
+2016-2-17 15:19:02 [INFO] /ban: Bloqueia o player especificado de usar este servidor
+2016-2-17 15:19:02 [INFO] /ban-ip: Bloqueia o IP especificado de usar este servidor
+2016-2-17 15:19:02 [INFO] /banlist: Ver todos os jogadores banidos deste servidor
+2016-2-17 15:19:02 [INFO] /defaultgamemode: Altera o modo de jogo padr„o
+2016-2-17 15:19:02 [INFO] /deop: Remove o status de operador do player especificado
+2016-2-17 15:19:02 [INFO] /difficulty: Altera a dificuldade do jogo
+2016-2-17 15:19:02 [INFO] /effect: Adiciona/Remove efeitos nos players
+2016-2-17 15:19:02 [INFO] /enchant: Adiciona encantamento nos itens
+2016-2-17 15:19:02 [INFO] /gamemode: Altera o player para um tipo de jogo especÌfico
+2016-2-17 15:19:02 [INFO] /gc: Ativa o garbage collection
+2016-2-17 15:19:02 [INFO] /give: D· ao player especificado uma certa quantidade de itens
+2016-2-17 15:19:02 [INFO] /help: Mostra o menu de ajuda
+2016-2-17 15:19:02 [INFO] /kick: Remove o player especificado do servidor
+2016-2-17 15:19:02 [INFO] /kill: Comite suicÌdio ou mata outros players
+2016-2-17 15:19:02 [INFO] /list: Mostra todos os players online
+2016-2-17 15:19:02 [INFO] /me: Performa a aÁ„o especÌfica no chat
+2016-2-17 15:19:02 [INFO] /op: D· o player especificado o status de operador
+2016-2-17 15:19:02 [INFO] /pardon: Permite o jogador especificado usar este servidor
+2016-2-17 15:19:02 [INFO] /pardon-ip: Permite o IP especificado usar este servidor
+2016-2-17 15:19:02 [INFO] /particle: Adiciona partÌculas a um mundo
+2016-2-17 15:19:02 [INFO] /plugins: Pega uma lista de plugins rodando no servidor
+2016-2-17 15:19:02 [INFO] /reload: Recarrega a configuraÁ„o do servidor e os plugins
+2016-2-17 15:19:02 [INFO] /save-all: Salva o servidor para o disco
+2016-2-17 15:19:02 [INFO] /save-off: Desativa o auto-salvamento do servidor
+2016-2-17 15:19:02 [INFO] /save-on: Ativa o auto-salvamento do servidor
+2016-2-17 15:19:02 [INFO] /say: Envia uma mensagem especÌfica utilizando o enviador
+2016-2-17 15:19:02 [INFO] /seed: Mostra a seed do mundo
+2016-2-17 15:19:02 [INFO] /setworldspawn: Marca o spawn de um mundo. Se nenhuma coordenada est· especificada, as coordenadas do player ser„o utilizadas.
+2016-2-17 15:19:02 [INFO] /spawnpoint: Marca o spawn de um player
+2016-2-17 15:19:02 [INFO] /status: Mostra a performance do servidor.
+2016-2-17 15:19:02 [INFO] /stop: Fecha o servidor
+2016-2-17 15:19:02 [INFO] /tell: Envia uma mensagem privada para o player
+2016-2-17 15:19:02 [INFO] /time: Altera o tempo em todos os mundos
+2016-2-17 15:19:02 [INFO] /tp: Teletransporta o player especificado (ou vocÍ) para outro player ou coordenadas
+2016-2-17 15:19:02 [INFO] /version: Pega a vers„o deste servidor incluindo todos os plugins em uso
+2016-2-17 15:19:02 [INFO] /weather: Altera o tempo no mundo atual
+2016-2-17 15:19:02 [INFO] /whitelist: Administra a lista de players que podem usar este servidor
+2016-2-17 15:19:02 [INFO] /xp: Gives the specified player a certain amount of experience
+2016-2-28 22:40:58 [INFO] Loading nukkit.yml...
+2016-2-28 22:40:58 [INFO] Loading server properties...
+2016-2-28 22:40:58 [INFO] Selecionado Portugu√™s (bra) como a linguagem base
+2016-2-28 22:40:58 [INFO] Iniciando Servidor de Minecraft: PE, vers√£o v0.14.0 alpha
+2016-2-28 22:40:59 [INFO] Abrindo servidor em 0.0.0.0:19132
+2016-2-28 22:40:59 [INFO] Este servidor est√° rodando Nukkit vers√£o 1.0dev "ËòãÊûú(Apple)Ê¥æ(Pie)" (API 1.0.0)
+2016-2-28 22:40:59 [INFO] Nukkit √© distribuido com a licen√ßa LGPL
+2016-2-28 22:40:59 [INFO] Preparando mundo "world"
+2016-2-28 22:40:59 [INFO] Iniciando listener de status GS4
+2016-2-28 22:40:59 [INFO] Porta de query est√° ativada em 19132
+2016-2-28 22:40:59 [INFO] Query rodando em 0.0.0.0:19132
+2016-2-28 22:40:59 [INFO] Modo de jogo padr√£o: Modo Sobreviv√™ncia
+2016-2-28 22:40:59 [INFO] Finalizado (2.415s)! Para ver a ajuda, escreva "help" ou "?"
+2016-2-28 22:41:23 [NOTICE] Data n√£o encontrada do player "redstonealmeida", criando novo perfil
+2016-2-28 22:41:23 [INFO] redstonealmeida[/192.168.1.103:19132] entrou com o id de entidade 1 em (world, 128.0, 70.0, 128.0)
+2016-2-28 22:41:47 [INFO] redstonealmeida entrou no jogo
+2016-2-28 22:42:12 [INFO] [CONSOLE: r virou operador(a)]
+2016-2-28 22:42:15 [INFO] [CONSOLE: redstonealmeida virou operador(a)]
+2016-2-28 22:43:00 [INFO] [redstonealmeida: Mudado o pr√≥prio modo de jogo para Modo Criativo]
+2016-2-28 22:43:38 [INFO] [redstonealmeida: Mudado o pr√≥prio modo de jogo para Modo Sobreviv√™ncia]
+2016-2-28 22:43:46 [INFO] [redstonealmeida: Mudado o pr√≥prio modo de jogo para Modo Criativo]
+2016-2-28 22:44:34 [INFO] --- Mostrando p√°gina 1 de 1 (/help <p√°gina>) ---
+2016-2-28 22:44:34 [INFO] /ban: Bloqueia o player especificado de usar este servidor
+2016-2-28 22:44:34 [INFO] /ban-ip: Bloqueia o IP especificado de usar este servidor
+2016-2-28 22:44:34 [INFO] /banlist: Ver todos os jogadores banidos deste servidor
+2016-2-28 22:44:34 [INFO] /defaultgamemode: Altera o modo de jogo padr√£o
+2016-2-28 22:44:34 [INFO] /deop: Remove o status de operador do player especificado
+2016-2-28 22:44:34 [INFO] /difficulty: Altera a dificuldade do jogo
+2016-2-28 22:44:34 [INFO] /effect: Adiciona/Remove efeitos nos players
+2016-2-28 22:44:34 [INFO] /enchant: Adiciona encantamento nos itens
+2016-2-28 22:44:34 [INFO] /gamemode: Altera o player para um tipo de jogo espec√≠fico
+2016-2-28 22:44:34 [INFO] /gc: Ativa o garbage collection
+2016-2-28 22:44:34 [INFO] /give: D√° ao player especificado uma certa quantidade de itens
+2016-2-28 22:44:34 [INFO] /help: Mostra o menu de ajuda
+2016-2-28 22:44:34 [INFO] /kick: Remove o player especificado do servidor
+2016-2-28 22:44:34 [INFO] /kill: Comite suic√≠dio ou mata outros players
+2016-2-28 22:44:34 [INFO] /list: Mostra todos os players online
+2016-2-28 22:44:34 [INFO] /me: Performa a a√ß√£o espec√≠fica no chat
+2016-2-28 22:44:34 [INFO] /op: D√° o player especificado o status de operador
+2016-2-28 22:44:34 [INFO] /pardon: Permite o jogador especificado usar este servidor
+2016-2-28 22:44:34 [INFO] /pardon-ip: Permite o IP especificado usar este servidor
+2016-2-28 22:44:34 [INFO] /particle: Adiciona part√≠culas a um mundo
+2016-2-28 22:44:34 [INFO] /plugins: Pega uma lista de plugins rodando no servidor
+2016-2-28 22:44:34 [INFO] /reload: Recarrega a configura√ß√£o do servidor e os plugins
+2016-2-28 22:44:34 [INFO] /save-all: Salva o servidor para o disco
+2016-2-28 22:44:34 [INFO] /save-off: Desativa o auto-salvamento do servidor
+2016-2-28 22:44:34 [INFO] /save-on: Ativa o auto-salvamento do servidor
+2016-2-28 22:44:34 [INFO] /say: Envia uma mensagem espec√≠fica utilizando o enviador
+2016-2-28 22:44:34 [INFO] /seed: Mostra a seed do mundo
+2016-2-28 22:44:34 [INFO] /setworldspawn: Marca o spawn de um mundo. Se nenhuma coordenada est√° especificada, as coordenadas do player ser√£o utilizadas.
+2016-2-28 22:44:34 [INFO] /spawnpoint: Marca o spawn de um player
+2016-2-28 22:44:34 [INFO] /status: Mostra a performance do servidor.
+2016-2-28 22:44:34 [INFO] /stop: Fecha o servidor
+2016-2-28 22:44:34 [INFO] /tell: Envia uma mensagem privada para o player
+2016-2-28 22:44:34 [INFO] /time: Altera o tempo em todos os mundos
+2016-2-28 22:44:34 [INFO] /tp: Teletransporta o player especificado (ou voc√™) para outro player ou coordenadas
+2016-2-28 22:44:34 [INFO] /version: Pega a vers√£o deste servidor incluindo todos os plugins em uso
+2016-2-28 22:44:34 [INFO] /weather: Altera o tempo no mundo atual
+2016-2-28 22:44:34 [INFO] /whitelist: Administra a lista de players que podem usar este servidor
+2016-2-28 22:44:34 [INFO] /xp: Gives the specified player a certain amount of experience
+2016-2-28 22:44:35 [INFO] Plugins (0):
+2016-2-28 22:44:36 [INFO] [CONSOLE: Parando o servidor]
+2016-2-28 22:44:36 [INFO] redstonealmeida saiu do jogo
+2016-2-28 22:44:36 [INFO] redstonealmeida[/192.168.1.103:19132] saiu devido a Server closed
+2016-2-28 22:44:36 [INFO] Descarregando mundo "world"
+2016-2-28 22:44:37 [INFO] Stopping other threads
