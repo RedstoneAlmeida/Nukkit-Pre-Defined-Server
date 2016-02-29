@@ -1,0 +1,9 @@
+Languages:
+  NoPermission: §cDu hast keine Rechte für diesen Command!
+  SetFirstPosition: §bPosition 1 wurde markiert!
+  SetSecondPosition: §bPosition 2 wurde markiert!
+  HaveNoTwoPosition: §cDu musst alle 2 Positionen markiert haben!
+  PositionInTheSameWorld: §cDie Positionen müssen in der Selben Welt sein!
+  SetBlocks: §aEs wurden §e[amout] §aBlöcke gesetzt!
+  BlocksUndo: §bEs wurden §e[amout] §bBlöcke zurückgesetzt!
+  HaveNoBlockSetFirst: §cDu musst erst ein Block gesetzt haben!
